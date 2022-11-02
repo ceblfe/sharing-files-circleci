@@ -1,7 +1,7 @@
 version: 2.1
 
 jobs:
-  save_hello_world_outpup:
+  save_hello_world_output:
     docker:
       - image: circleci/node:13.8.0
     steps:
